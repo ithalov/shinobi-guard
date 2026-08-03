@@ -15,10 +15,8 @@ Shinobi Guard is a Minecraft Forge 1.12.2 mod focused on directional defense, pe
 ## Preview
 
 <p align="center">
-  <img src="assets/preview.gif" width="900" alt="Preview">
+  <img src="assets/preview.gif" width="700" alt="Preview">
 </p>
-
-Clique na imagem para assistir ao vídeo.
 
 Add your screenshots here:
 
