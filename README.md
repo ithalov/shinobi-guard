@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/21af6561-68b8-44fe-baed-26be9f984312" />
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/35a8aced-b96b-4bc9-b187-21e6329f4971" />
+
 
 
 # Shinobi Guard
